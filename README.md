@@ -2,6 +2,6 @@
 
 Edit apapun untuk hacktoberfest disini.
 
-## Feature one
+## Feature 
 
 ## Feature two
