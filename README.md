@@ -7,7 +7,3 @@ Fork dulu reponya
 
 ## Feature one
 ## Feature two
-## fitur login
-## fitur registrasii
-## menambah produk
-## menambah toko
