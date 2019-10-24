@@ -7,4 +7,4 @@ Fork dulu reponya
 ## Feature one
 ## Feature two
 ## fitur login
-## fitur register
+## fitur registrasi
