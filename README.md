@@ -6,5 +6,3 @@ Fork dulu reponya
 
 ## Feature one
 ## Feature two
-## Feature three
-## Feature four
