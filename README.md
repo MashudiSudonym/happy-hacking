@@ -4,6 +4,6 @@ Edit apapun untuk hacktoberfest disini.
 
 Fork dulu reponya
 
-## Feature one 
 
+## Feature one
 ## Feature two
