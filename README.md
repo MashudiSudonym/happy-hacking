@@ -10,4 +10,4 @@ Fork dulu reponya
 ## fitur login
 ## fitur registrasii
 ## menambah produk
-## menambah toko
+## menambah toko mitra
