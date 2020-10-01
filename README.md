@@ -2,4 +2,4 @@
 
 # SELAMAT MENJALANKAN HACKTOBERFEST 2020 😄
 
-Repo ini digunakan untuk meramaikan hacktoberfest
+Repo ini digunakan untuk meramaikan hacktoberfest 2020
