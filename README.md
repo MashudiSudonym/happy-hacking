@@ -1,7 +1,3 @@
 # Happy Hacking Repository
 
-Edit apapun untuk hacktoberfest disini.
-
-## Feature one 
-
-## Feature two
+# SELAMAT MENJALANKAN HACKTOBERFEST 2020 😄
