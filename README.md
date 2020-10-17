@@ -6,3 +6,4 @@ Repo ini digunakan untuk meramaikan hacktoberfest 2020
 
 ## fiture satu
 ## fitus seratus
+## fitur seribu
