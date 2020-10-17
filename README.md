@@ -2,8 +2,8 @@
 
 Edit apapun untuk hacktoberfest disini.
 
-Fork dulu reponya
+Fork dulu reponya jangan 
 
 
 ## menmabah fitur login
-## menambah fitur register user
+## add SSDT-PLUG.aml
