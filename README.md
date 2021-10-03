@@ -1,13 +1,10 @@
 # Happy Hacking Repository
 
-# SELAMAT MENJALANKAN HACKTOBERFEST 2020 😄
+# SELAMAT MENJALANKAN HACKTOBERFEST 2021 😄
 
-Repo ini digunakan untuk meramaikan hacktoberfest 2020
+## Fitur satu
 
-## fiture satu
-## fitus seratus
-## fitur seribu
-## fitur dua satu dua
-## fitur dua satu tiga
-## fitur dua satu empat
-## fitur dua satu lima
+## Fitur dua
+
+## Fitur tiga
+
